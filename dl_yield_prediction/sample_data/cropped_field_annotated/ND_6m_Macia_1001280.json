@@ -1,0 +1,85 @@
+{
+    "version": "4.5.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    57,
+                    63
+                ],
+                [
+                    154,
+                    155
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    350,
+                    71
+                ],
+                [
+                    412,
+                    148
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    423,
+                    130
+                ],
+                [
+                    482,
+                    198
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    518,
+                    20
+                ],
+                [
+                    577,
+                    92
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "panicle",
+            "points": [
+                [
+                    578,
+                    79
+                ],
+                [
+                    622,
+                    139
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "..\\..\\..\\sample_data\\cropped_field_annotated\\ND_6m_Macia_1001280.JPG",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

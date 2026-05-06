@@ -1,0 +1,16 @@
+jupyter
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+cython
+ultralytics
+shap
+statsmodels
+tqdm
+ipywidgets
+opencv-python
+pillow
+torchvision
+torch
