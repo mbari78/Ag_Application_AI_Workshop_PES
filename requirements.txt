@@ -1,3 +1,4 @@
+# ===== Common =====
 jupyter
 pandas
 matplotlib
@@ -14,3 +15,14 @@ opencv-python
 pillow
 torchvision
 torch
+
+# ===== RL =====
+stable-baselines3
+sb3-contrib
+gymnasium
+
+# ===== Simulation / CoppeliaSim =====
+pygame-ce
+pyzmq
+cbor
+coppeliasim-zmqremoteapi-client
