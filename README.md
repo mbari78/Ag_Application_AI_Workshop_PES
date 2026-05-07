@@ -1,7 +1,7 @@
 # Ag_Application_AI_Workshop_PES_NMSU
 
 ## AI Predictive Analytics in Agriculture
-This repository contains materials for a hands-on workshop on Artificial Intelligence (AI) driven predictive analytics in agriculture, with on deep learning application on UAV imagery, lab-derived phenotyping data to extract features, and predict yield, genomic selection for yield prediction, path optimization of robots for spraying.
+This repository contains materials for a hands-on workshop on Artificial Intelligence (AI) driven predictive analytics in agriculture, with on deep learning application on UAV imagery, lab-derived phenotyping data to extract features, and predict yield, genomic selection for yield prediction, path optimization for robotic spot spraying.
 
 The workshop includes:
 
@@ -12,10 +12,16 @@ The workshop includes:
 By the end of the workshop, participants will gain a practical understanding of tools and workflows needed to build end-to-end agricultural prediction pipelines.
 
 ## Setup
-Download and install python https://www.python.org/downloads/ and VS code https://code.visualstudio.com/ in your machine. You can create an environment or use the base python environment.
+Download and install python https://www.python.org/downloads/ and VS code https://code.visualstudio.com/ in your machine. You can create an environment or use the base python environment. Use the following command to install the necessary python packages:
 ```bash
 pip install -r requirements.txt
 ```
+Additionally, follow the below steps for the hands-on session:
+1. Download the weight files from [here](https://eltnmsu-my.sharepoint.com/:f:/g/personal/mabari_nmsu_edu/IgBCUc_ebmWqQbAb513KFaVUAXYb5EEQbrd8nuFKG9Y8m_4?e=aHaRXt) and put them under `dl_yield_prediction\weights`.
+
+2. Download and install CoppeliaSim from here: [https://www.coppeliarobotics.com/](https://www.coppeliarobotics.com/). Select the "Edu" version (registration is optional).
+
+
 For more please explore
 ```bash
 @article{BARI2026_DL_Phenomics,
