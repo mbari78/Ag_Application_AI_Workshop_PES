@@ -17,7 +17,7 @@ Download and install python https://www.python.org/downloads/ and VS code https:
 pip install -r requirements.txt
 ```
 Additionally, follow the below steps for the hands-on session:
-1. Download the weight files from [here](https://eltnmsu-my.sharepoint.com/:f:/g/personal/mabari_nmsu_edu/IgBCUc_ebmWqQbAb513KFaVUAXYb5EEQbrd8nuFKG9Y8m_4?e=aHaRXt) and put them under `dl_yield_prediction\weights`.
+1. Download the weight files from [here](https://eltnmsu-my.sharepoint.com/:f:/g/personal/mabari_nmsu_edu/IgBCUc_ebmWqQbAb513KFaVUAc1TVHHNBkq9JfeIdqSBlhI?e=5%3adXJf92&at=9) and put them under `dl_yield_prediction\weights`.
 
 2. Download and install CoppeliaSim from here: [https://www.coppeliarobotics.com/](https://www.coppeliarobotics.com/). Select the "Edu" version (registration is optional).
 
